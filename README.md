@@ -1,5 +1,5 @@
 # Hi there, I'm Shreyans! 👋
-I'm Shreyans, a junior at Duke double majoring in Statistics and Mathematics. I'm interested in finding data-driven solutions in sports (), social good, and entrepreneurship. 📚 
+I'm a junior at Duke double majoring in Statistics and Mathematics who is interested in finding data-driven solutions in sports (🏀), social good, and entrepreneurship. 📚 
 <br><br>
 In my free time, I weightlift (MyFitnessPal streak of 242), memorize NBA statistics (ask me about 1973), and enjoy board games and cooking.
 <br><br>Here is my cool journey with numbers:
@@ -10,7 +10,6 @@ In my free time, I weightlift (MyFitnessPal streak of 242), memorize NBA statist
 <br>Age 18: Represented Team India at the South East Asian Mathematical Olympiad 🇮🇳
 
 <br><br>My cliche math ending from my accepted essay at Duke:<br>"I find numbers nurturing me through unconventional lenses. I realize that the limits to mathematics are infinite. So I explore"
-
 # 💻 **Tech Stack**
 **Languages:** Python, R, SQL<br>
 **Libraries:** Pandas, Keras, TensorFlow, Matplotlib, SkiKit-Learn, Tidyverse, Dplyr, ggplot2<br>
