@@ -9,7 +9,6 @@ In my free time, I weightlift (MyFitnessPal streak of 242), memorize NBA statist
 <br>Age 18: Authored a top 175 Education Best-sellers math book 📚
 <br>Age 18: Represented Team India at the South East Asian Mathematical Olympiad 🇮🇳
 
-<br>My cliche math ending from my accepted essay at Duke:<br>"I find numbers nurturing me through unconventional lenses. I realize that the limits to mathematics are infinite. So I explore"
 # 💻 **Tech Stack**
 **Languages:** Python, R, SQL<br>
 **Libraries:** Pandas, Keras, TensorFlow, Matplotlib, SkiKit-Learn, Tidyverse, Dplyr, ggplot2<br>
