@@ -1,7 +1,7 @@
 # Hi there, I'm Shreyans! 👋
 I'm a rising junior at Duke double majoring in Statistics and Mathematics, interested in finding data-driven solutions in sports (🏀), social good, and entrepreneurship. 📚 
 <br><br>
-In my free time, I weightlift (MyFitnessPal streak of 242), memorize NBA statistics (ask me about 1973), and enjoy board games and cooking.
+In my free time, I weightlift, research nutrition (MyFitnessPal streak of 242), memorize NBA statistics (ask me about 1973), and enjoy board games and cooking.
 <br><br>Here is my cool journey with numbers:
 <br>Age 10: Could multiply up to 6 digit numbers with 6 digit numbers in < 5 seconds mentally. 🔢 
 <br>Age 13: Could solve the Rubik's Cube in under 10 seconds. 🧩 
