@@ -1,6 +1,5 @@
 # Hi there, I'm Shreyans! 👋
-I'm a rising junior at Duke double majoring in Statistics and Mathematics, interested in finding data-driven solutions in sports (🏀), social good, and entrepreneurship. 
-See my portfolio website here: shreyansgupta.com
+I'm a junior at Duke double majoring in Statistics and Computer Science. Interested in sports analytics and experimentation. 
 
 # 💻 **Tech Stack**
 **Languages:** Python, R, SQL<br>
